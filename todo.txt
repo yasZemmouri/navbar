@@ -1,0 +1,6 @@
+find sigmabrod folder.
+put it on github.
+check the hamburger menu
+get a good hover inspector tool extension
+use developer tools to style then copy the rules to your css
+have all commands in Git Bash
